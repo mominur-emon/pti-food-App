@@ -1,8 +1,8 @@
 Using :
-Tailwind CSS
-React Js
-react router dom
-useState 
-useEffect
-react slick
+Tailwind CSS,
+React Js,
+react router dom,
+useState ,
+useEffect,
+react slick,
 axios 
